@@ -13,6 +13,6 @@ Day 20 of 21-days coding challenge
 ![Day 20 Challenge](./speechRecognition.jpg "Slide In")
 
 
-Project link: [Speech Recognition](https://smtoyedeji.github.io/javascript21-20.github.io/)
+Project link: [Speech Recognition](https://smtoyedeji.github.io/speechrecognition/)
 
 
